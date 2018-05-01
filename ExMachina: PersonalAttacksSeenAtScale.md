@@ -11,3 +11,5 @@ on online platforms
     * Multi-Layer Perceptron (MLP)
 6. Used Bag of Words representation based on word or character level n grams.
 7. Loss function used - Cross Entropy
+8. Character n-grams outperform word n-grams.
+      * 
