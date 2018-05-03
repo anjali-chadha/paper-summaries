@@ -33,9 +33,9 @@
 9. CNNs for Image Enhancement
       * MSR is equivalent to CNN with different Gaussian convolutional kernels 
       * Three main components in the model
-            * Multi scale logarithmic transforamtion
-            * Difference of convolution
-            * Color Restoration
+         * Multi scale logarithmic transforamtion
+         * Difference of convolution
+         * Color Restoration
       * Main difference between MSR-net and MSR       
-            * MSR - Parameters such as variance and other constants depend on artificial settings.
-            * MSR-net - Parameters in the model are learned from training.
+         * MSR - Parameters such as variance and other constants depend on artificial settings.
+         * MSR-net - Parameters in the model are learned from training.
